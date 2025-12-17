@@ -1,0 +1,1 @@
+print(''.join([chr((i%9)*3+(i//9)*30+10)for i in range(90)]if __name__ == '__main__'else''))or exec("print(''.join(map(lambda x:chr(ord(x)^42),'Ijws%nx%k%zss%nx%q%kls%nx%h%wjr%nx%t%o%xr%nx%g%v%js%nx%f%u%iq%nx%e%p%hr%nx%d%s%gt%nx%c%r%fu')))") 
